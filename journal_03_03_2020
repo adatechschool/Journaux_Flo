@@ -1,0 +1,15 @@
+Ok alors habituons nous à écrire un journal. 
+J'avance bien en objet, j'ai encore des problèmes de factorisation du code, il y a beaucoup de répétitions. 
+Je suis content d'attaquer des notions d'IA, dans le sens large, c'est à dire des algos qui trouvent des solutions à des problèmes de plus en plus complexes. 
+J'ai acheté un cahier, c'est cool ça faisait longtemps, j'aime bien avoir un cahier. 
+Il faut que je me force à sortir encore de ma zone de confort, j'ai tendance à refaire les méthodes qui marchent, c'est facile. 
+Content quand même, de l'utilisation du flag pour ne rentrer qu'une fois dans la boucle qui déplace le joueur avec les flèches, content aussi du tableau qui place les murs et de la petite fonction boolean check_case() qui les rend infranchissables. 
+
+Pour la suite : s'attaquer pour de vrai aux deux problèmes d'algo en cours : le plus court chemin en Java et gagner au morpion en Js. 
+Essayer Jquery, s'attaquer au site de Freaky42 (projet perso pour un pote), notamment la partie mise en ligne des fichiers et hébergement, j'ai pas particulièrement d'inquiétudes mais je l'ai juste jamais fait tout seul. 
+
+Implémenter progressivement la démarche expérimentale, identifier les paramètres sur lesquels on veut jouer, les constantes, et NOTER les résultats. Il faut vraiment que je prenne l'habitude de tenir ce journal quotidiennement, c'est aussi une bonne occas de travailler sur ma flemme. 
+
+On avance bien quand même en ce moment, c'est cool. 
+
+Bisous
