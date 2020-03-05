@@ -1,0 +1,16 @@
+Du mal à bosser aujourd'hui. J'ai juste fixé mon code, qui redimensionnait des images à chaque appel de la draw(), ce qui est très très lourd. 
+Maintenant je resize() une fois dans la setup() et basta. 
+
+Sinon je me suis balladé, il pleuvait mais c'était joli. 
+
+J'aimerais bien faire un programme qui simule une plante qui pousse, avec de la pluie et du soleil et des évènements toussa. 
+J'ai ébauché le truc. 
+
+Je pense qu'il faut appuyer beaucoup plus sur l'aspect ludique, le code c'est avant tout MARRANT. J'ai tendance à oublier que je fais ça surtout
+par ce que ça me fait marrer, ça fait du bien de le rappeler. Fuck results and money and all ze shit. 
+
+Du coup je pense relier beaucoup plus la notion de jeu et celle d'apprentissage, peut être le vendredi, ou tous les jours, à creuser. 
+
+Rappel des objectifs : je ne suis pas là pour trouver du travail ou intégrer une boite, je veux apprendre à coder, rire et me faire des copains. 
+
+Bisous
