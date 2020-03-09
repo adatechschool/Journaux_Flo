@@ -1,0 +1,17 @@
+retour sur processing. 
+On essaye de faire pousser des plantes, en fonction d'abord du temps, puis de paramètres comme l'eau et la lumière. 
+Tout part de la millis() à partir de laquelle on choisit une échelle de temps et un cycle nuit/jour. 
+
+On essaye de dégrader le ciel en fonction du temps déjà, et on a une tige qui pousse aussi en fonction du temps. 
+L'idée serait d'amener de plus en plus de paramètres et d'iplémenter des méthodes pour faire pousser des branches,
+des tiges, des feuilles, des fleurs... 
+
+L'idée serait de permettre à l'utilisateur de "paramétrer" sa graine pour donner à chaque fois des résultats uniques. 
+On pourrait ensuite créer un jardin dans lequel plein de plantes différentes peuvent pousser. 
+
+Ensuite, le temps passe et l'utilisateur peut lui donner de l'eau ou de la lumière (ou peut être faire pleuvoir/cacher le soleil). 
+Ou peut être juste qu'il controle que la météo. 
+
+Niveau code R.A.S, je vais surement essayer d'implémenter des classes héréditaires for ze first time. No big deal. 
+
+Je commence à bien maîtriser les valeurs de return, enfin au moins à déterminer quand j'en ai besoin ou pas. Refactoring. 
