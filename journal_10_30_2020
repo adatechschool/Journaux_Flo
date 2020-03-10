@@ -1,0 +1,17 @@
+Re sur processing. 
+Pas mal de temps passé sur Photoshop, à voir comment je peux faire des macros pour automatiser ce travail là. 
+J'ai tendance à vouloir calculer tous mes résultats, et vouloir tout réprésenter par des entiers ou des calculs,
+bref j'ai une approche assez matheuse du code et si je veux pouvoir travailler avec d'autres gens, l'enjeu
+c'est de "planquer les maths", c'est à dire de les ranger dans des fonctions qui sont lisibles en français. 
+
+J'aime bien bosser avec Loan, elle est coole. 
+
+j'ai un problème avec mon calcul du temps c'est que comme j'itére que heure par heure
+(avec une heure = une seconde), du coup les mouvements sont saccadés, ce qui est con, ça sert à rien d'appeler une
+fonction 60 fois par seconde si c'est pour avoir un diaporama. 
+
+Il faut que je regarde à quel point je suis obligé de passer par Photoshop pour dessiner, bref ça avance. 
+
+Super intéressé par le coup des cartes Arduino, énormément de potentiel artistique, je suis patate.
+
+Bisous
